@@ -1,6 +1,6 @@
-# ai-nlp-final
+# phone-price-prediction
 
-This is an nlp project containing these topics:
+This is a regression project containing these topics:
 
 - Onehot encoding
 - Data oversampling for balance
